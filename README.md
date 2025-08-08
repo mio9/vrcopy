@@ -1,4 +1,4 @@
-# VRC Copyboard
+# VR Copyboard
 
 This thing is a comically large copyboard to compensate for your wonky hands in VR.
 
