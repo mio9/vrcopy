@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/fonts": "^0.11.4",
     "@vueuse/core": "^13.6.0",
     "nuxt": "^4.0.1",
     "reka-ui": "^2.4.0",
