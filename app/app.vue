@@ -27,6 +27,13 @@
       <h3 class="text-2xl font-semibold mb-2 text-red-400">⚠️ Browser Not Supported</h3>
       <p class="text-xl text-red-300">Your browser does not support the Clipboard API. Please use a modern browser.</p>
     </div>
+
+    <!-- Footer -->
+    <footer class="mt-auto pt-8 text-center">
+      <div class="text-gray-500 text-sm">
+        VR Copyboard - 2025 MIO9 - MIT "clone this yourself" License
+      </div>
+    </footer>
   </div>
 </template>
 
