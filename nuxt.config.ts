@@ -16,5 +16,10 @@ export default defineNuxtConfig({
     plugins: [
       tailwindcss()
     ]
+  },
+  nitro: { // satisfy cloudflare route matching rules
+    prerender: {
+      autoSubfolderIndex: false
+    }
   }
 })
