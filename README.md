@@ -6,7 +6,7 @@ A comically large copyboard to compensate for your wonky shaky hands in VR. Espe
 
 ## Features
 - **Comically Large**: The interface is designed to be easily accessible even with VR gloves.
-- **Copy Functionality**: Copies things to your clipboard
+- **Copy Functionality**: Copies things to your clipboard, it's what it designed for bruh
 
 ## Getting Started
 Use https://vrcp.mio9.sh
