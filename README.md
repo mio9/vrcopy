@@ -10,3 +10,4 @@ This thing is a comically large copyboard to compensate for your wonky hands in 
 
 ## Getting Started
 Use https://vrcp.mio9.sh
+> *`cp` for copy https://www.man7.org/linux/man-pages/man1/cp.1.html*
