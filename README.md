@@ -1,6 +1,6 @@
 # VR Copyboard
 
-This thing is a comically large copyboard to compensate for your wonky hands in VR.
+A comically large copyboard to compensate for your wonky shaky hands in VR. Especially useful for copying Japanese
 
 > ついに、日本語入力できるようになりました！🎉🎉🎉
 
