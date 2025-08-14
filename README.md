@@ -5,7 +5,7 @@ A comically large copyboard to compensate for your wonky shaky hands in VR. Espe
 > 面倒い日本語入力
 
 ## Features
-- **Comically Large**: The interface is designed to be easily accessible even with VR gloves.
+- **Comically Large**: The interface is designed to be easily accessible even with VR controls (and worse hand tracking)
 - **Copy Functionality**: Copies things to your clipboard, it's what it designed for bruh
 
 ## Getting Started
