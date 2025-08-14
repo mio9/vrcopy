@@ -2,7 +2,7 @@
 
 A comically large copyboard to compensate for your wonky shaky hands in VR. Especially useful for copying Japanese with XSOverlay
 
-> ついに、日本語入力できるようになりました！🎉🎉🎉
+> 面倒い日本語入力
 
 ## Features
 - **Comically Large**: The interface is designed to be easily accessible even with VR gloves.
