@@ -9,4 +9,4 @@ This thing is a comically large copyboard to compensate for your wonky hands in 
 - **Copy Functionality**: Copies things to your clipboard
 
 ## Getting Started
-Use https://copy.mio9.sh
+Use https://vrcp.mio9.sh
