@@ -10,18 +10,18 @@
             : 'bg-transparent text-cyan-400 border-2 border-cyan-400 hover:bg-cyan-400 hover:text-black'
         ]"
       >
-        📋 Copy Tool
+        📋 Copyboard
       </NuxtLink>
       <NuxtLink
-        to="/slash-unscrambler"
+        to="/url-unscrambler"
         :class="[
           'px-6 py-3 text-2xl font-bold rounded-lg transition-all duration-200',
-          $route.path === '/slash-unscrambler' 
+          $route.path === '/url-unscrambler' 
             ? 'bg-cyan-400 text-black' 
             : 'bg-transparent text-cyan-400 border-2 border-cyan-400 hover:bg-cyan-400 hover:text-black'
         ]"
       >
-        🔗 Slash Unscrambler
+        🔗 URL Unscrambler
       </NuxtLink>
     </div>
   </nav>
