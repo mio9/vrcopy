@@ -1,8 +1,9 @@
 <template>
+  
   <div class="min-h-screen bg-black text-white flex flex-col font-sans">
     <!-- Navigation Bar -->
     <Navigation />
-    
+    <NuxtPwaManifest />
     <!-- Page Content -->
     <NuxtPage />
   </div>
