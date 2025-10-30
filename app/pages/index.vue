@@ -12,11 +12,11 @@
     </div>
 
     <!-- Large Text Input Area -->
-    <div class="mb-8 flex-grow flex flex-col">
+    <div class="mb-8 grow flex flex-col">
       <h2 class="text-4xl font-semibold mb-4 text-cyan-400">Enter your text:</h2>
       <textarea
         v-model="text"
-        class="w-full text-3xl flex-grow p-6 bg-transparent border-4 border-yellow-400 rounded-lg focus:border-yellow-300 focus:outline-none resize-none text-yellow-100 placeholder-yellow-600"
+        class="w-full text-3xl grow p-6 bg-transparent border-4 border-yellow-400 rounded-lg focus:border-yellow-300 focus:outline-none resize-none text-yellow-100 placeholder-yellow-600"
         rows="3"
         placeholder="Type your text here..."
       ></textarea>
