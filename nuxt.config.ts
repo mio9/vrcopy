@@ -22,6 +22,7 @@ export default defineNuxtConfig({
 		},
 	},
 	pwa: {
+    registerType: 'autoUpdate',
 		manifest: {
 			name: "VR Copyboard",
 			short_name: "VR Copyboard",
@@ -37,5 +38,8 @@ export default defineNuxtConfig({
 				}
 			],
 		},
+    workbox: {
+      globPatterns: ['**/*.{js,css,html,png,jpg,jpeg,gif,svg,webp}'],
+    }
 	},
 });

@@ -8,7 +8,7 @@
           $route.path === '/' 
             ? 'bg-cyan-400 text-black' 
             : 'bg-transparent text-cyan-400 border-2 border-cyan-400 hover:bg-cyan-400 hover:text-black'
-        ]"
+        ]"        
       >
         📋 Copyboard
       </NuxtLink>
